@@ -23,7 +23,7 @@ export default function PrivacyPolicy() {
 
       <div className="max-w-3xl mx-auto px-6 py-12">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Privacy Policy</h1>
-        <p className="text-gray-500 mb-8">Last updated: January 24, 2024</p>
+        <p className="text-gray-500 mb-8">Last updated: January 24, 2026</p>
 
         <div className="prose prose-gray max-w-none">
           <section className="mb-8">
@@ -91,7 +91,7 @@ export default function PrivacyPolicy() {
               If you have any questions about this Privacy Policy, please contact us at:
             </p>
             <p className="text-gray-600">
-              Email: privacy@pdfmaster.app<br />
+              Email: idikudakarthik55@gmail.com<br />
               Website: <a href="https://www.karthikidikuda.dev" className="text-red-500 hover:underline">karthikidikuda.dev</a>
             </p>
           </section>

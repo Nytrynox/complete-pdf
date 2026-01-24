@@ -23,7 +23,7 @@ export default function TermsOfService() {
 
       <div className="max-w-3xl mx-auto px-6 py-12">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Terms of Service</h1>
-        <p className="text-gray-500 mb-8">Last updated: January 24, 2024</p>
+        <p className="text-gray-500 mb-8">Last updated: January 24, 2026</p>
 
         <div className="prose prose-gray max-w-none">
           <section className="mb-8">
@@ -90,7 +90,7 @@ export default function TermsOfService() {
             <h2 className="text-xl font-semibold text-gray-900 mb-4">9. Contact</h2>
             <p className="text-gray-600">
               For questions about these terms, contact us at:<br />
-              Email: legal@pdfmaster.app<br />
+              Email: idikudakarthik55@gmail.com<br />
               Website: <a href="https://www.karthikidikuda.dev" className="text-red-500 hover:underline">karthikidikuda.dev</a>
             </p>
           </section>

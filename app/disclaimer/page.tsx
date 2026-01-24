@@ -23,7 +23,7 @@ export default function Disclaimer() {
 
       <div className="max-w-3xl mx-auto px-6 py-12">
         <h1 className="text-3xl font-bold text-gray-900 mb-2">Disclaimer</h1>
-        <p className="text-gray-500 mb-8">Last updated: January 24, 2024</p>
+        <p className="text-gray-500 mb-8">Last updated: January 24, 2026</p>
 
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-4 mb-8 flex gap-3">
           <AlertTriangle className="w-5 h-5 text-amber-600 flex-shrink-0 mt-0.5" />
@@ -106,7 +106,7 @@ export default function Disclaimer() {
             <h2 className="text-xl font-semibold text-gray-900 mb-4">Contact</h2>
             <p className="text-gray-600">
               If you have any questions about this disclaimer, please contact:<br />
-              Email: legal@pdfmaster.app<br />
+              Email: idikudakarthik55@gmail.com<br />
               Developer: <a href="https://www.karthikidikuda.dev" className="text-red-500 hover:underline">Karthik Idikuda</a>
             </p>
           </section>
